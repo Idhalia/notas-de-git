@@ -1,4 +1,10 @@
 ##Curso GIT desde cero
+Sistema de control de versiones para el mantenimiento eficiente y confiable de archivos.
+
+### Zonas de Git
+1. Directorio de trabajo (working area - PC)
+2. Área de preparación(staging area - sistema)
+3. Directorio Git (repositorio GitHub)
 
 ### Flujo de trabajo básico en Git
 1. Modificas una serie de archivos en tu directorio de trabajo.
@@ -14,4 +20,6 @@ git config --global core.editor subl
     --> Para esto hay que agregar la ruta del ejecutable de sublime text 3 en las variables de entorno del sistema
 git config --list
 ```
+
+Esta línea fue creada en la rama master.
 
