@@ -1,2 +1,0 @@
-## ¿Qué es GIT?
-Sistema de control de versiones para el mantenimiento eficiente y confiable de archivos. 
