@@ -1,4 +1,5 @@
 ### git log
+Muestra todo el historial de commir del proyecto.
 
 ´ git log --pretty=format:"%h - %an, %ar : %s" ´
 
