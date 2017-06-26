@@ -21,5 +21,5 @@ git config --global core.editor subl
 git config --list
 ```
 
-Esta línea fue creada en la rama master.
+Esta línea fue creada en la rama master como ejemplo de divergencia de dos ramas.
 
