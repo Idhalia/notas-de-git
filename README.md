@@ -22,5 +22,5 @@ git config --list
 ```
 
 ## Aportes desde otra cuenta
-Este texto fue aportado desde la cuenta idalikg
+Este texto fue aportado desde la cuenta idalikg 
 
