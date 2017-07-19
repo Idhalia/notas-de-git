@@ -24,3 +24,5 @@ git config --list
 ## Aportes desde otra cuenta
 Este texto fue aportado desde la cuenta idalikg --> es decir, esta es la cuenta secundaria.
 
+## Modificación de datos
+Se modificaron los nombres y usernames de cuenta principal y secundaria.
