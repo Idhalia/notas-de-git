@@ -26,3 +26,6 @@ Este texto fue aportado desde la cuenta idalikg --> es decir, esta es la cuenta 
 
 ## Modificación de datos
 Se modificaron los nombres y usernames de cuenta principal y secundaria.
+
+## Varios repositorios remotos
+Podemos configurar un mismo proyecto para sincroizar cambios con varios repositorios remotos.
